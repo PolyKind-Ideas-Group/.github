@@ -45,7 +45,7 @@ All projects from PolyKind Ideas Group are released under the MIT License, unles
 Contact Us
 You can reach us at:
 
-Email: contact@polykindideasgroup.com
+Email: zohanuhaque@gmail.com
 
 GitHub: https://github.com/PolyKind-Ideas-Group
 
